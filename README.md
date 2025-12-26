@@ -5,14 +5,15 @@
 
 <img src="images/154.png">
 <img src="images/background-warchiving.png">
----
+
+
 
 ## 🌐 Introduction Repo Structure
 - FE Repo: [프론트엔드 레포지토리](https://github.com/Warchiving/Warchiving-front)
-- AI Rec Repo[AI 추천시스템 레포지토리]: (https://github.com/Warchiving/Warchiving-AI)
+- AI Rec Repo: [AI 추천시스템 레포지토리](https://github.com/Warchiving/Warchiving-AI)
 
 
----
+
 
 ## 🌐 installation(set up)
 
@@ -33,12 +34,10 @@ Wedding datasets 수집: 웨딩 카페([메이크마이 웨딩](https://makemywe
 ### Data processing
 * 업체마다 다른 보증금, 추가비용, 정가를 .csv 파일로 정리하여 데이터 전처리를 진행하였습니다.
 <img src="images/datasets.png">
----
 
 ## 🌐 AI Rec(AI 추천시스템)
 
 
----
 ## 🌐 Members
 
 
