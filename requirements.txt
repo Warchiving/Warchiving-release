@@ -1,0 +1,8 @@
+torch
+transformers
+pandas
+pyarrow
+tqdm
+chromadb
+sentence-transformers
+rank-bm25
